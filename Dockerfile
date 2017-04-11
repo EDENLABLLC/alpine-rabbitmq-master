@@ -1,4 +1,4 @@
-FROM nebo15/alpine-rabbitmq-node:3.6.6
+FROM nebo15/alpine-rabbitmq-node:3.6.9
 MAINTAINER Nebo#15 <support@nebo15.com>
 
 # Enable sentitel plugins
